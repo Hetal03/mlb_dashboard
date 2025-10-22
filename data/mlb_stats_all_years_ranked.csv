@@ -1,0 +1,266 @@
+Statistic,Player,Team,Value,Rank,Year
+Base on Balls,Dummy Hoy,Chicago,86.0,1.0,1901
+Batting Average,Nap Lajoie,Philadelphia,0.426,1.0,1901
+Doubles,Nap Lajoie,Philadelphia,48.0,1.0,1901
+Hits,Nap Lajoie,Philadelphia,232.0,1.0,1901
+Home Runs,Nap Lajoie,Philadelphia,14.0,1.0,1901
+On Base Percentage,Nap Lajoie,Philadelphia,0.463,1.0,1901
+RBI,Nap Lajoie,Philadelphia,125.0,1.0,1901
+Runs,Nap Lajoie,Philadelphia,145.0,1.0,1901
+Slugging Average,Nap Lajoie,Philadelphia,0.643,1.0,1901
+Stolen Bases,Frank Isbell,Chicago,52.0,1.0,1901
+Total Bases,Nap Lajoie,Philadelphia,350.0,1.0,1901
+Triples,Bill Keister,Baltimore,21.0,1.0,1901
+Triples,Jimmy Williams,Baltimore,21.0,1.0,1901
+Complete Games,Joe McGinnity,Baltimore,39.0,1.0,1901
+ERA,Cy Young,Boston,1.62,1.0,1901
+Games,Joe McGinnity,Baltimore,48.0,1.0,1901
+Saves,Bill Hoffer,Cleveland,3.0,1.0,1901
+Shutouts,Clark Griffith,Chicago,5.0,1.0,1901
+Shutouts,Cy Young,Boston,5.0,1.0,1901
+Strikeouts,Cy Young,Boston,158.0,1.0,1901
+Winning Percentage,Clark Griffith,Chicago,0.774,1.0,1901
+Wins,Cy Young,Boston,33.0,1.0,1901
+Team | Roster,W,L,,,1901
+Chicago White Sox,83,53,0.61,1.0,1901
+Boston Americans,79,57,0.581,1.0,1901
+Detroit Tigers,74,61,0.548,1.0,1901
+Philadelphia Athletics,74,62,0.544,1.0,1901
+Baltimore Orioles,68,65,0.511,1.0,1901
+Washington Senators,61,72,0.459,1.0,1901
+Cleveland Blues,54,82,0.397,1.0,1901
+Milwaukee Brewers,48,89,0.35,1.0,1901
+Team | Roster,W,L,,,1901
+Base on Balls,Chicago,475,,,1901
+Batting Average,Baltimore,.294,,,1901
+Doubles,Philadelphia,239,,,1901
+Hits,Philadelphia,1409,,,1901
+Home Runs,Boston,37,,,1901
+On Base Percentage,Baltimore,.353,,,1901
+Runs,Chicago,819,,,1901
+Slugging Average,Baltimore,.397,,,1901
+Stolen Bases,Chicago,280,,,1901
+Triples,Baltimore,111,,,1901
+Complete Games,Philadelphia,124,,,1901
+ERA,Chicago,2.98,,,1901
+Fewest Hits Allowed,Boston,1178,,,1901
+Fewest Home Runs Allowed,Philadelphia,20,,,1901
+Fewest Walks Allowed,Washington,284,,,1901
+Saves,Cleveland,4,,,1901
+Saves,Milwaukee,4,,,1901
+Shutouts,Chicago,11,,,1901
+Strikeouts,Boston,396,,,1901
+Base on Balls,Topsy Hartsel,Philadelphia,87.0,1.0,1902
+Batting Average,Ed Delahanty,Washington,0.376,1.0,1902
+Doubles,Harry Davis,Philadelphia,43.0,1.0,1902
+Doubles,Ed Delahanty,Washington,43.0,1.0,1902
+Hits,Charlie Hickman,Boston,193.0,1.0,1902
+Hits,Charlie Hickman,Cleveland,193.0,1.0,1902
+Home Runs,Socks Seybold,Philadelphia,16.0,1.0,1902
+On Base Percentage,Ed Delahanty,Washington,0.453,1.0,1902
+RBI,Buck Freeman,Boston,121.0,1.0,1902
+Runs,Dave Fultz,Philadelphia,109.0,1.0,1902
+Runs,Topsy Hartsel,Philadelphia,109.0,1.0,1902
+Slugging Average,Ed Delahanty,Washington,0.59,1.0,1902
+Stolen Bases,Topsy Hartsel,Philadelphia,47.0,1.0,1902
+Total Bases,Charlie Hickman,Boston,288.0,1.0,1902
+Total Bases,Charlie Hickman,Cleveland,288.0,1.0,1902
+Triples,Jimmy Williams,Baltimore,21.0,1.0,1902
+Complete Games,Cy Young,Boston,41.0,1.0,1902
+ERA,Ed Siever,Detroit,1.91,1.0,1902
+Games,Cy Young,Boston,45.0,1.0,1902
+Saves,Jack Powell,St. Louis,2.0,1.0,1902
+Shutouts,Addie Joss,Cleveland,5.0,1.0,1902
+Strikeouts,Rube Waddell,Philadelphia,210.0,1.0,1902
+Winning Percentage,Bill Bernhard,Philadelphia,0.783,1.0,1902
+Winning Percentage,Bill Bernhard,Cleveland,0.783,1.0,1902
+Wins,Cy Young,Boston,32.0,1.0,1902
+Team | Roster,W,L,,,1902
+Philadelphia Athletics,83,53,0.61,1.0,1902
+St. Louis Browns,78,58,0.574,1.0,1902
+Boston Americans,77,60,0.562,1.0,1902
+Chicago White Sox,74,60,0.552,1.0,1902
+Cleveland Blues,69,67,0.507,1.0,1902
+Washington Senators,61,75,0.449,1.0,1902
+Detroit Tigers,52,83,0.385,1.0,1902
+Baltimore Orioles,50,88,0.362,1.0,1902
+Team | Roster,W,L,,,1902
+Base on Balls,Baltimore,417,,,1902
+Batting Average,Cleveland,.289,,,1902
+Doubles,Washington,261,,,1902
+Hits,Cleveland,1401,,,1902
+Home Runs,Washington,47,,,1902
+On Base Percentage,Baltimore,.342,,,1902
+Runs,Philadelphia,775,,,1902
+Slugging Average,Washington,.395,,,1902
+Stolen Bases,Chicago,265,,,1902
+Triples,Baltimore,107,,,1902
+Complete Games,Washington,130,,,1902
+ERA,Boston,3.02,,,1902
+Fewest Hits Allowed,Cleveland,1199,,,1902
+Fewest Home Runs Allowed,Detroit,20,,,1902
+Fewest Walks Allowed,Washington,312,,,1902
+Saves,Cleveland,3,,,1902
+Saves,Detroit,3,,,1902
+Shutouts,Cleveland,16,,,1902
+Strikeouts,Philadelphia,455,,,1902
+Base on Balls,Jimmy Barrett,Detroit,74.0,1.0,1903
+Batting Average,Nap Lajoie,Cleveland,0.344,1.0,1903
+Doubles,Socks Seybold,Philadelphia,45.0,1.0,1903
+Hits,Patsy Dougherty,Boston,195.0,1.0,1903
+Home Runs,Buck Freeman,Boston,13.0,1.0,1903
+On Base Percentage,Jimmy Barrett,Detroit,0.407,1.0,1903
+RBI,Buck Freeman,Boston,104.0,1.0,1903
+Runs,Patsy Dougherty,Boston,107.0,1.0,1903
+Slugging Average,Nap Lajoie,Cleveland,0.518,1.0,1903
+Stolen Bases,Harry Bay,Cleveland,45.0,1.0,1903
+Total Bases,Buck Freeman,Boston,281.0,1.0,1903
+Triples,Sam Crawford,Detroit,25.0,1.0,1903
+Complete Games,Bill Donovan,Detroit,34.0,1.0,1903
+Complete Games,Rube Waddell,Philadelphia,34.0,1.0,1903
+Complete Games,Cy Young,Boston,34.0,1.0,1903
+ERA,Earl Moore,Cleveland,1.74,1.0,1903
+Games,Eddie Plank,Philadelphia,43.0,1.0,1903
+Saves,Bill Dinneen,Boston,2.0,1.0,1903
+Saves,George Mullin,Detroit,2.0,1.0,1903
+Saves,Al Orth,Washington,2.0,1.0,1903
+Saves,Jack Powell,St. Louis,2.0,1.0,1903
+Saves,Cy Young,Boston,2.0,1.0,1903
+Shutouts,Cy Young,Boston,7.0,1.0,1903
+Strikeouts,Rube Waddell,Philadelphia,302.0,1.0,1903
+Winning Percentage,Cy Young,Boston,0.757,1.0,1903
+Wins,Cy Young,Boston,28.0,1.0,1903
+Team | Roster,W,L,,,1903
+Boston Americans,91,47,0.659,1.0,1903
+Philadelphia Athletics,75,60,0.556,1.0,1903
+Cleveland Blues,77,63,0.55,1.0,1903
+New York Highlanders,72,62,0.537,1.0,1903
+Detroit Tigers,65,71,0.478,1.0,1903
+St. Louis Browns,65,74,0.468,1.0,1903
+Chicago White Sox,60,77,0.438,1.0,1903
+Washington Senators,43,94,0.314,1.0,1903
+Team | Roster,W,L,,,1903
+Base on Balls,New York,332,,,1903
+Batting Average,Boston,.272,,,1903
+Doubles,Cleveland,231,,,1903
+Hits,Boston,1336,,,1903
+Home Runs,Boston,48,,,1903
+On Base Percentage,Detroit,.318,,,1903
+Runs,Boston,708,,,1903
+Slugging Average,Boston,.392,,,1903
+Stolen Bases,Chicago,180,,,1903
+Triples,Boston,113,,,1903
+Complete Games,Cleveland,125,,,1903
+ERA,Boston,2.57,,,1903
+Fewest Hits Allowed,Philadelphia,1124,,,1903
+Fewest Home Runs Allowed,Cleveland,16,,,1903
+Fewest Walks Allowed,St. Louis,237,,,1903
+Saves,Boston,4,,,1903
+Saves,Chicago,4,,,1903
+Shutouts,Boston,20,,,1903
+Shutouts,Cleveland,20,,,1903
+Strikeouts,Philadelphia,728,,,1903
+Base on Balls,Jimmy Barrett,Detroit,79.0,1.0,1904
+Batting Average,Nap Lajoie,Cleveland,0.376,1.0,1904
+Doubles,Nap Lajoie,Cleveland,49.0,1.0,1904
+Hits,Nap Lajoie,Cleveland,211.0,1.0,1904
+Home Runs,Harry Davis,Philadelphia,10.0,1.0,1904
+On Base Percentage,Nap Lajoie,Cleveland,0.413,1.0,1904
+RBI,Nap Lajoie,Cleveland,102.0,1.0,1904
+Runs,Patsy Dougherty,Boston,113.0,1.0,1904
+Runs,Patsy Dougherty,New York,113.0,1.0,1904
+Slugging Average,Nap Lajoie,Cleveland,0.552,1.0,1904
+Stolen Bases,Harry Bay,Cleveland,38.0,1.0,1904
+Stolen Bases,Elmer Flick,Cleveland,38.0,1.0,1904
+Total Bases,Nap Lajoie,Cleveland,305.0,1.0,1904
+Triples,Joe Cassidy,Washington,19.0,1.0,1904
+Triples,Buck Freeman,Boston,19.0,1.0,1904
+Triples,Chick Stahl,Boston,19.0,1.0,1904
+Complete Games,Jack Chesbro,New York,48.0,1.0,1904
+ERA,Addie Joss,Cleveland,1.59,1.0,1904
+Games,Jack Chesbro,New York,55.0,1.0,1904
+Saves,Case Patten,Washington,3.0,1.0,1904
+Shutouts,Cy Young,Boston,10.0,1.0,1904
+Strikeouts,Rube Waddell,Philadelphia,349.0,1.0,1904
+Winning Percentage,Jack Chesbro,New York,0.774,1.0,1904
+Wins,Jack Chesbro,New York,41.0,1.0,1904
+Team | Roster,W,L,,,1904
+Boston Americans,95,59,0.617,1.0,1904
+New York Highlanders,92,59,0.609,1.0,1904
+Chicago White Sox,89,65,0.578,1.0,1904
+Cleveland Blues,86,65,0.57,1.0,1904
+Philadelphia Athletics,81,70,0.536,1.0,1904
+St. Louis Browns,65,87,0.428,1.0,1904
+Detroit Tigers,62,90,0.408,1.0,1904
+Washington Senators,38,113,0.252,1.0,1904
+Team | Roster,W,L,,,1904
+Base on Balls,Chicago,373,,,1904
+Batting Average,Cleveland,.260,,,1904
+Doubles,Cleveland,225,,,1904
+Hits,New York,1354,,,1904
+Home Runs,Philadelphia,31,,,1904
+On Base Percentage,Cleveland,.308,,,1904
+Runs,Cleveland,647,,,1904
+Slugging Average,Cleveland,.354,,,1904
+Stolen Bases,Chicago,216,,,1904
+Triples,Boston,105,,,1904
+Complete Games,Boston,148,,,1904
+ERA,Boston,2.12,,,1904
+Fewest Hits Allowed,Philadelphia,1149,,,1904
+Fewest Home Runs Allowed,Cleveland,10,,,1904
+Fewest Walks Allowed,Boston,233,,,1904
+Saves,Washington,4,,,1904
+Shutouts,Chicago,26,,,1904
+Shutouts,Philadelphia,26,,,1904
+Strikeouts,Philadelphia,887,,,1904
+Base on Balls,Topsy Hartsel,Philadelphia,121.0,1.0,1905
+Batting Average,Elmer Flick,Cleveland,0.308,1.0,1905
+Doubles,Harry Davis,Philadelphia,47.0,1.0,1905
+Hits,George Stone,St. Louis,187.0,1.0,1905
+Home Runs,Harry Davis,Philadelphia,8.0,1.0,1905
+On Base Percentage,Topsy Hartsel,Philadelphia,0.409,1.0,1905
+RBI,Harry Davis,Philadelphia,83.0,1.0,1905
+Runs,Harry Davis,Philadelphia,93.0,1.0,1905
+Slugging Average,Elmer Flick,Cleveland,0.462,1.0,1905
+Stolen Bases,Danny Hoffman,Philadelphia,46.0,1.0,1905
+Total Bases,George Stone,St. Louis,259.0,1.0,1905
+Triples,Elmer Flick,Cleveland,18.0,1.0,1905
+Complete Games,Harry Howell,St. Louis,35.0,1.0,1905
+Complete Games,George Mullin,Detroit,35.0,1.0,1905
+Complete Games,Eddie Plank,Philadelphia,35.0,1.0,1905
+ERA,Rube Waddell,Philadelphia,1.48,1.0,1905
+Games,Rube Waddell,Philadelphia,46.0,1.0,1905
+Saves,Jim Buchanan,St. Louis,2.0,1.0,1905
+Shutouts,Ed Killian,Detroit,8.0,1.0,1905
+Strikeouts,Rube Waddell,Philadelphia,287.0,1.0,1905
+Winning Percentage,Rube Waddell,Philadelphia,0.73,1.0,1905
+Wins,Rube Waddell,Philadelphia,27.0,1.0,1905
+Team [Click for roster],Wins,Losses,,,1905
+Philadelphia Athletics,92,56,0.622,1.0,1905
+Chicago White Sox,92,60,0.605,1.0,1905
+Detroit Tigers,79,74,0.516,1.0,1905
+Boston Americans,78,74,0.513,1.0,1905
+Cleveland Naps,76,78,0.494,1.0,1905
+New York Highlanders,71,78,0.477,1.0,1905
+Washington Senators,64,87,0.424,1.0,1905
+St. Louis Browns,54,99,0.353,1.0,1905
+Base on Balls,Boston,486,,,1905
+Batting Average,Philadelphia,.255,,,1905
+Doubles,Philadelphia,256,,,1905
+Hits,Cleveland,1318,,,1905
+Home Runs,Boston,29,,,1905
+On Base Percentage,Philadelphia,.310,,,1905
+Runs,Philadelphia,623,,,1905
+Slugging Average,Philadelphia,.338,,,1905
+Stolen Bases,New York,200,,,1905
+Triples,Cleveland,72,,,1905
+Complete Games,Cleveland,140,,,1905
+ERA,Chicago,1.99,,,1905
+Fewest Hits Allowed,Philadelphia,1137,,,1905
+Fewest Home Runs Allowed,Chicago,11,,,1905
+Fewest Home Runs Allowed,Detroit,11,,,1905
+Fewest Walks Allowed,Boston,292,,,1905
+Saves,New York,4,,,1905
+Shutouts,Philadelphia,19,,,1905
+Strikeouts,Philadelphia,895,,,1905
+Seasonal Events: All-Star Game | World Series Navigation: Year in Review Menu | Previous Season | Next Season Miscellaneous: N.L. Leaderboard Retirements | Rookies List,Seasonal Events: All-Star Game | World Series Navigation: Year in Review Menu | Previous Season | Next Season Miscellaneous: N.L. Leaderboard Retirements | Rookies List,Seasonal Events: All-Star Game | World Series Navigation: Year in Review Menu | Previous Season | Next Season Miscellaneous: N.L. Leaderboard Retirements | Rookies List,,,1905
