@@ -39,9 +39,10 @@ for event in events:
     except Exception as e:
         print("Error while parsing:", e)
 
-# -------------------------------
+# ----------------------------------
 # STEP 4: Save to CSV
 # -------------------------------
+
 df = pd.DataFrame(data)
 df.to_csv("../data/mlb_history_events.csv", index=False)
 print(f"✅ Scraped {len(df)} events and saved to ../data/mlb_history_events.csv")
